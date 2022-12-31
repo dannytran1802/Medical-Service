@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/btn_add_circle_24.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable-v24/ic_dehaze_24.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable-v24/popular_bg.xml" value="0.1665" />
+        <entry key="app/src/main/res/drawable-v24/round_borderv2.xml" value="0.1665" />
+        <entry key="app/src/main/res/drawable-v24/search_back.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable-v24/wave.xml" value="0.171" />
+        <entry key="app/src/main/res/drawable/background_card.xml" value="0.169" />
+        <entry key="app/src/main/res/drawable/background_cardv2.xml" value="0.1605" />
+        <entry key="app/src/main/res/drawable/btn_cancle.xml" value="0.162" />
+        <entry key="app/src/main/res/drawable/btn_getstart.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/btn_remove_circle_24.xml" value="0.17" />
+        <entry key="app/src/main/res/drawable/ic_video_call_24.xml" value="0.1605" />
+        <entry key="app/src/main/res/drawable/rorder_edit_user.xml" value="0.159" />
+        <entry key="app/src/main/res/drawable/round_border.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/round_border_inpu_sqare.xml" value="0.159" />
+        <entry key="app/src/main/res/drawable/sent_code.xml" value="0.1685" />
+        <entry key="app/src/main/res/layout/activity_ambulance.xml" value="0.2056159420289855" />
+        <entry key="app/src/main/res/layout/activity_basic.xml" value="0.2056159420289855" />
+        <entry key="app/src/main/res/layout/activity_booking.xml" value="0.20697463768115942" />
+        <entry key="app/src/main/res/layout/activity_booking_sos.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_complete.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_complete_change_pass.xml" value="0.19746376811594202" />
+        <entry key="app/src/main/res/layout/activity_complete_forgot_pass.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home_ambulance.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_home_pharma.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/activity_home_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.2151268115942029" />
+        <entry key="app/src/main/res/layout/activity_medical.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_message_list.xml" value="0.19067028985507245" />
+        <entry key="app/src/main/res/layout/activity_password.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_pharmacy.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_product_form.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_product_list.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.21014492753623187" />
+        <entry key="app/src/main/res/layout/activity_sent_code.xml" value="0.19067028985507245" />
+        <entry key="app/src/main/res/layout/activity_shop.xml" value="0.21467391304347827" />
+        <entry key="app/src/main/res/layout/activity_shop_cart.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_shop_order.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_shop_product_list.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_user_book_ambulance.xml" value="0.19746376811594202" />
+        <entry key="app/src/main/res/layout/activity_user_checkout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_history_booking.xml" value="0.20697463768115942" />
+        <entry key="app/src/main/res/layout/activity_user_history_pharmacy.xml" value="0.20606884057971014" />
+        <entry key="app/src/main/res/layout/activity_user_history_pharmacy_detail.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/activity_video_call.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_basic.xml" value="0.2056159420289855" />
+        <entry key="app/src/main/res/layout/dialog_booking_cancle.xml" value="0.1766304347826087" />
+        <entry key="app/src/main/res/layout/viewholder_booking.xml" value="0.20697463768115942" />
+        <entry key="app/src/main/res/layout/viewholder_history_order.xml" value="0.20606884057971014" />
+        <entry key="app/src/main/res/layout/viewholder_medical.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/viewholder_message_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/viewholder_pharma.xml" value="0.21467391304347827" />
+        <entry key="app/src/main/res/layout/viewholder_product.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/viewholder_shop_cart.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/viewholder_shop_order.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/viewholder_shop_order_detail.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/viewholder_shop_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/viewholder_user_checkout.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainviewproduct"
+    android:layout_marginStart="6dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="6dp"
+    android:layout_marginBottom="10dp"
+    android:background="@drawable/background_card"
+    android:elevation="3dp">
+
+    <ImageView
+        android:id="@+id/picCard"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_app" />
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Trung Tâm Y Tế Dự Phòng Đà Nẵng - Cơ sở tiêm chủng"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#373b54"
+        app:layout_constraintStart_toEndOf="@+id/picCard"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:paddingLeft="50dp"
+        android:text="- Địa chỉ: 103 Hùng Vương, Hải Châu 1, Hải Châu, Đà Nẵng"
+        android:textColor="#373b54"
+        android:textSize="18sp"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/textTitle"
+        app:layout_constraintStart_toEndOf="@+id/picCard" />
+
+    <TextView
+        android:id="@+id/textContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:paddingLeft="50dp"
+        android:text="- Điện thoại: 0236 3821 206"
+        android:textColor="#373b54"
+        android:textSize="18sp"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintTop_toBottomOf="@+id/textBody"
+        app:layout_constraintStart_toEndOf="@+id/picCard" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
